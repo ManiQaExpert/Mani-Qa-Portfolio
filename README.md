@@ -93,7 +93,7 @@ Explore my **QA work samples**:
 Check out samples of my QA work in the sections below:
 
 <p align="center">
-  <a href="Test_Cases/"><img src="https://img.shields.io/badge/🧪-Test%20Cases-blue?style=for-the-badge" alt="Test Cases"></a>
+  <a href="TestCases/"><img src="https://img.shields.io/badge/🧪-Test%20Cases-blue?style=for-the-badge" alt="Test Cases"></a>
   <a href="Bug_Reports/"><img src="https://img.shields.io/badge/📋-Bug%20Reports-red?style=for-the-badge" alt="Bug Reports"></a>
   <a href="Test_Plans/"><img src="https://img.shields.io/badge/🗂️-Test%20Plans-yellow?style=for-the-badge" alt="Test Plans"></a>
   <a href="Checklists/"><img src="https://img.shields.io/badge/✅-Checklists-green?style=for-the-badge" alt="Checklists"></a>
