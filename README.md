@@ -93,7 +93,7 @@ Explore my **QA work samples**:
 Check out samples of my QA work in the sections below:
 
 <p align="center">
-  <a href="TestCases"><img src="https://img.shields.io/badge/🧪-Test%20Cases-blue?style=for-the-badge" alt="Test Cases"></a>
+  <a href="TestCases/"><img src="https://img.shields.io/badge/🧪-Test%20Cases-blue?style=for-the-badge" alt="Test Cases"></a>
   <a href="Bug_Reports/"><img src="https://img.shields.io/badge/📋-Bug%20Reports-red?style=for-the-badge" alt="Bug Reports"></a>
   <a href="Test_Plans/"><img src="https://img.shields.io/badge/🗂️-Test%20Plans-yellow?style=for-the-badge" alt="Test Plans"></a>
   <a href="Checklists/"><img src="https://img.shields.io/badge/✅-Checklists-green?style=for-the-badge" alt="Checklists"></a>
@@ -110,7 +110,7 @@ Check out samples of my QA work in the sections below:
 
 | Section | Link | Description |
 |---------|------|-------------|
-| 🧪 **Test Cases** | [View Test Cases](Test_Cases/) | Functional test cases with detailed steps and expected results |
+| 🧪 **Test Cases** | [View Test Cases](TestCases/) | Functional test cases with detailed steps and expected results |
 | 📋 **Bug Reports** | [View Bug Reports](Bug_Reports/) | Well-structured issues with expected vs actual behavior |
 | 🗂️ **Test Plans** | [View Test Plans](Test_Plans/) | Scope, strategy, and approach for QA cycles |
 | ✅ **Checklists** | [View Checklists](Checklists/) | UI, smoke, accessibility, and validation checklists |
