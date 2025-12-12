@@ -1,5 +1,5 @@
 # 🧪 Mani — Senior QA Engineer  
-### Complete QA Portfolio (Manual + Automation + Mobile + API + Accessibility)
+### Complete QA Portfolio (Manual + Automation + Mobile + Accessibility)
 
 Welcome to my **QA Engineering Portfolio**.  
 This repository showcases my professional work in:
